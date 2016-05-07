@@ -14,7 +14,7 @@ Copyright (c) 2015, The University of Nottingham
 
 DESCRIPTION
 
-A customisable, automatic image slideshow, primarily intended for use with a network of public-facing, urban screens (such as the 'Screens in the Wild' framework). Styled for portrait, touch-based display @ a resolution of 745x1340. 
+A customisable, automatic image slideshow, primarily intended for use with a network of public-facing, urban screens (such as the 'Screens in the Wild' framework). Styled for a portrait, touch-based display, with available browser screen space of 745x1340.  
 
 In the original ScreenBase Instantiated Slideshow module. a new instance (a copy of all the code in the directory) was created for each new slideshow. 
 
